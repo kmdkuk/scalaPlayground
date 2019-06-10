@@ -1,0 +1,14 @@
+run
+:quit
+quit;
+quit:
+exit
+:quit
+quit
+quit:
+:quit:
+:quit
+:help
+!help
+help
+exit
